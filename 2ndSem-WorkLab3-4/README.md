@@ -1,3 +1,2 @@
-# 2ndSem-Archive
-Козлов А.
-ИУ5-33Б
+# 2ndSem-WorkLab3-4
+
