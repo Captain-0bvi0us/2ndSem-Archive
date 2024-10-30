@@ -31,7 +31,7 @@ class Unique(object):
     def __iter__(self):
         return self
 
-"""  
+ 
 def main():
         data = ['a', 'b', 'c', 'a', 'b', 'd', 'A', 'B', 'C', 'D']
         dataRandom = gen_random(10, 1,10)
@@ -44,4 +44,3 @@ def main():
         for item in unique2:
             print(item, end=' ')
 main()
-"""

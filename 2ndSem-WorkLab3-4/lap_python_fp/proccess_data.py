@@ -4,7 +4,7 @@ from print_result import print_result
 from cm_timer import cm_timer_1
 from unique import Unique 
 
-path = "C:/Users/123/Documents/Work/Programs/2ndSem-WorkLab3-4/lap_python_fp/data_light.json"
+path = "C:/Users/123/Documents/Work/Programs/2ndSem-Archive/2ndSem-WorkLab3-4/lap_python_fp/data_light.json"
 with open(path, encoding = 'utf-8') as f:
     data = json.load(f)
 

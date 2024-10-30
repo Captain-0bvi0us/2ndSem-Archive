@@ -32,7 +32,6 @@ def test_3():
 def test_4():
     return [1, 2]
 
-"""
 if __name__ == '__main__':
     print('!!!!!!!!')
     print('test_1')
@@ -43,4 +42,3 @@ if __name__ == '__main__':
     test_3()
     print('test_4')
     test_4()
-"""

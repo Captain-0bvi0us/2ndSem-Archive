@@ -16,5 +16,3 @@ class figureColor:
     @color.setter
     def color(self, value):
         self.__color = value
-
-

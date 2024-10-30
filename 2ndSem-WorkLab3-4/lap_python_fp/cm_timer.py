@@ -19,7 +19,7 @@ def cm_timer_2():
         endTime = time.time()
         elapsedTime = endTime - startTime
         print(f'Elapsed time: {elapsedTime} секунд')
-"""       
+      
 def main():
     with cm_timer_1():
         print('Hello, world!')
@@ -31,4 +31,3 @@ def main():
         print('Блок кода выполнен')
 
 main()
-"""
